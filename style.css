@@ -4138,7 +4138,7 @@ body{
     position: relative;
     width: 100%;
     height: 0;
-    padding-bottom: 800px; /* 16:9 aspect ratio */
+	padding-bottom: 500px;
     overflow: hidden;
 }
 
@@ -4149,5 +4149,5 @@ body{
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transform: scale(1);
+    
 }
